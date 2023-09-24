@@ -32,14 +32,14 @@ html{background-color: #aa7939;}				/*Created using paletton.com site. Code foun
 
 #listed_info ul{							 	/*removes bullets from 'nav' list, listed_info*/
 	margin: 0 4em; 								/*createe an all-around margin of 32px s*/
-	padding:0;									
+	padding: 0;									
 	margin-bottom: 1em;
 	}
 
 #listed_info ul li{
-	line-height: 1.5;							/*puts a little space between lines*/
+	line-height: 2;							/*puts a little space between lines*/
 	font-weight: bold;
-	list-style: none;
+	/* list-style: none; */
 	}
 	
 #inside_list li{
@@ -78,6 +78,23 @@ html{background-color: #aa7939;}				/*Created using paletton.com site. Code foun
 .middle_div{
 	margin: auto;
 	text-align: left;
+}
+
+.title_top{
+	padding-top: 2em;
+	padding-bottom: 2em;
+	border-bottom: .25em outset #000;
+}
+
+.title_middle{
+	padding-top: 2em;
+	padding-bottom: 2em;
+	border-bottom: .25em outset #000;
+}
+
+.title_bottom{
+	padding-top: 2em;
+	padding-bottom: 2em;
 }
 
 
