@@ -26,6 +26,7 @@ html{background-color: #aa7939;}				/*Created using paletton.com site. Code foun
 }
 
 #book_author {
+	padding-top: 2em;
 	text-align: center;
 	font-style: bold;
 	font-size: 150%;
@@ -73,6 +74,13 @@ html{background-color: #aa7939;}				/*Created using paletton.com site. Code foun
 	padding-top: 4em;
 	padding-bottom: 4em;
 }
+
+#bottom_div_table th{
+	margin: auto;
+	width:33%;
+	text-align: center;
+}
+
 
 /*** class style settings ***/
 
