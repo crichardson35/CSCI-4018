@@ -18,12 +18,18 @@ html{background-color: #aa7939;}				/*Created using paletton.com site. Code foun
 
 /***Named elements***/
 #copyright{font-size: 80%;}					 	/*Found on pg 161*/
-#instructions{								 	/*modifies the named 'instructions' in the section part of the index.html*/
-	margin: .75em 0 .5em 0;                  	/*12px/16px top margin, 0px right, 8px/16px bottom-margin, 0 left*/
-	font-size:175%; 							/*increases size of font*/
-	font-weight: bold;							/*changes from regular to bold font*/
-	}
-#instructions::first-letter{font-size: 200%;}	/*Changes the first letter of the 'instructions'*/
+
+#content_title {
+	text-align: center;
+	font-style: bold;
+	font-size: 200%;
+}
+
+#book_author {
+	text-align: center;
+	font-style: bold;
+	font-size: 150%;
+}
 
 #listed_info {
 	margin-top: 2em;
