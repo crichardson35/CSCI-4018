@@ -85,7 +85,7 @@ html{background-color: #aa7939;}				/*Created using paletton.com site. Code foun
 /*** class style settings ***/
 
 .content_top_div{
-	margin auto;
+	margin: auto;
 	text-align: justify;
 	padding-top: 2em;
 	padding-left: 2em;
