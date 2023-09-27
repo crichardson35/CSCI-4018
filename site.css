@@ -75,6 +75,13 @@ html{background-color: #aa7939;}				/*Created using paletton.com site. Code foun
 
 /*** class style settings ***/
 
+.content_top_div{
+	margin auto;
+	text-align: justify;
+	padding-top: 2em;
+	padding-left: 2em;
+}
+
 .top_div{
 	margin: auto;
 	text-align: center;
@@ -85,6 +92,18 @@ html{background-color: #aa7939;}				/*Created using paletton.com site. Code foun
 	margin: auto;
 	text-align: left;
 }
+
+.bottom_div{
+	margin: auto;
+	text-align: right;
+}
+
+.bottom_div a{
+	margin: auto;
+	padding-right: 2em;
+	padding-bottom: 2em;
+}
+
 
 .title_top{
 	padding-top: 2em;
